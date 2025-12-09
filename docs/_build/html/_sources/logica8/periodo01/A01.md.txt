@@ -1,0 +1,27 @@
+# A01: Conceptos
+
+Welcome...
+
+---
+## TAREA 01: Arte 01
+
+:::{admonition} AVISO
+:class: note
+
+Acceder al siguiente contenido:
+
+- [TEORIA 01](../recursos/T01.md)
+- [Web](https://www.jfkennedy.edu.co)
+:::
+
+---
+## TAREA 02: Arte 02
+
+:::{mermaid}
+
+graph TD
+    A[Start] --> B{Process}
+    B --> C{Decision}
+    C -- Yes --> D[End]
+    C -- No --> B
+:::
